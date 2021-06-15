@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3d71ecd2185cecf44b42d1d7e642b0e1
+guid: caa5f718f953d3c46804c686ae473d7e
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -8,87 +8,112 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: 442398ae7aba29f47b7cbb43b3cc5b91, type: 2}
+    second: {fileID: 2100000, guid: b9601f0cce96f9746a7e872e211782da, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.005
-    second: {fileID: 2100000, guid: 3daf76708d003f34fa8c94aeef7c1d1d, type: 2}
+    second: {fileID: 2100000, guid: fd5180f10a8727f4a95dba1a07c49d2f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.006
-    second: {fileID: 2100000, guid: 6b99cda970f062249a238865eb6ebf48, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.007
-    second: {fileID: 2100000, guid: 147f8789243a78941967b5c5ad43c56f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.009
-    second: {fileID: 2100000, guid: 46afdc503c91d764886df484c86b3b2c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.010
-    second: {fileID: 2100000, guid: 91b5a5bbb83d35146ac5652bbdb9aae2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.012
-    second: {fileID: 2100000, guid: c895dd1bb451cd347b94d4ba3728fbe2, type: 2}
+    second: {fileID: 2100000, guid: 5e5a21ae46657e742a78e8de21756054, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.013
-    second: {fileID: 2100000, guid: 499aaa1d48020314ea1dd02a25031ec2, type: 2}
+    second: {fileID: 2100000, guid: b34cc0340b03eeb429b97ea924e289ee, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.014
-    second: {fileID: 2100000, guid: 159e0a74d2bda0c4dac3b0ee4257c147, type: 2}
+    second: {fileID: 2100000, guid: 275ba668ba9db7c408a1a8a090431d03, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.015
-    second: {fileID: 2100000, guid: f2d99625ad6f6c74b9fec528848d54d1, type: 2}
+    second: {fileID: 2100000, guid: 1f382e804960fcf48acbf7a7b4b3afc6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: base
-    second: {fileID: 2100000, guid: 6ba4981b10d213d43bc70d05889a3cb6, type: 2}
+      name: door
+    second: {fileID: 2100000, guid: bc64bbd9ac8fb1140af4927658fdb0a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 30f858b02acaab94996af9105cf4dcfd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: glass.002
-    second: {fileID: 2100000, guid: c0f393628e6fce7468eb49286820e493, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lightwood
-    second: {fileID: 2100000, guid: 69a8f1ab376d00449995b4ce795b478c, type: 2}
+    second: {fileID: 2100000, guid: 4a1fa7fe39a202245934cb015b73310b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal.001
-    second: {fileID: 2100000, guid: e008640aa78bcd4478b04963bde3455f, type: 2}
+    second: {fileID: 2100000, guid: 66cebb43c7c2e9443a5d6c91653185c0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal.003
-    second: {fileID: 2100000, guid: e344bd2d4b53bf841b67ae62da491b7e, type: 2}
+    second: {fileID: 2100000, guid: 4324812504230494da77578f0e318abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onderdak
+    second: {fileID: 2100000, guid: 3d3214bffc6def540bacfe3554d22563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planks.001
+    second: {fileID: 2100000, guid: f09ae2943ccbc354b953722c1738bdcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rooftiles
+    second: {fileID: 2100000, guid: 04049eb681ea7664791443cb4142de7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 3b3d1bc6e3fc6d147b0e80b69dac7c46, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BetonBase
-    second: {fileID: 2800000, guid: 263417ae3606bd448b9b6ad959689a39, type: 3}
+    second: {fileID: 2800000, guid: 2b7d5c7fea662b7478788c26f34b3d31, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Old_Wooden_Planks_Texture-1559
-    second: {fileID: 2800000, guid: b2853cd28836ccc4099bc86fa0440523, type: 3}
+      name: Planks
+    second: {fileID: 2800000, guid: 630bae4f31ea22943a57ddc1b72da478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rooftiles
+    second: {fileID: 2800000, guid: ce331968f021788459a0d148241230fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2800000, guid: e9f2bb6af3b89d74d84ec21426c7b5d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: normal
+    second: {fileID: 2800000, guid: 9a42df826e03ed145968f81edd181863, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: specular
+    second: {fileID: 2800000, guid: 8e2d835e7631d0d48800d3ba4c21458a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2800000, guid: a74c4c6ffdebeda42bea3425e17f8dc3, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -134,7 +159,7 @@ ModelImporter:
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 1
+    preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
